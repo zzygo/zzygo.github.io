@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-02-20T17:48:54.520Z</updated>
+  <updated>2021-02-24T20:46:13.921Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>银川延期，未来迷离</title>
+    <link href="http://example.com/2021/02/25/%E9%93%B6%E5%B7%9D%E5%BB%B6%E6%9C%9F%EF%BC%8C%E6%9C%AA%E6%9D%A5%E8%BF%B7%E7%A6%BB/"/>
+    <id>http://example.com/2021/02/25/%E9%93%B6%E5%B7%9D%E5%BB%B6%E6%9C%9F%EF%BC%8C%E6%9C%AA%E6%9D%A5%E8%BF%B7%E7%A6%BB/</id>
+    <published>2021-02-24T20:38:34.000Z</published>
+    <updated>2021-02-24T20:46:13.921Z</updated>
+    
+    <content type="html"><![CDATA[<p>每场区域赛都往后调了，昆明4.3，银川5.15，沈阳目测是5.23？，那tm如果打得好有ecfinal不是要搞到6月份我acm才能停掉训练？</p><p>不知道为啥，今天想到这些就有点小压力，anyway，我觉得对付这种心态的正解就是走一步看一步，先挑出当前最紧急的事情，或者对未来贡献最大的事情去做，考研是肯定的，英语和政治是两门拉不开分的科目，况且我英语底子还行，所以6月前大概就能拿别人在英语上花的时间放在xcpc训练做题上了吧，虽然感觉现在的心态已经是想早点退役备战考研了，anyway，现在放弃难道不是神经病吗，打完ccpc到现在这段时间也训练了不少，并且从大一到现在 在算法竞赛投入了多少时间？现在放弃那你去吃屎吧fw。所以目前确定的退役之前的目标是3修+1辅：</p><p>3修：数学+408+xcpc (按优先级由高到低排序)</p><p>1辅：英语</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;每场区域赛都往后调了，昆明4.3，银川5.15，沈阳目测是5.23？，那tm如果打得好有ecfinal不是要搞到6月份我acm才能停掉训练？&lt;/p&gt;
+&lt;p&gt;不知道为啥，今天想到这些就有点小压力，anyway，我觉得对付这种心态的正解就是走一步看一步，先挑出当前最紧急的事情，</summary>
+      
+    
+    
+    
+    <category term="日记" scheme="http://example.com/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>迁移hexo博客至新电脑</title>
