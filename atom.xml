@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-04-03T15:08:28.874Z</updated>
+  <updated>2021-04-11T13:46:30.951Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>4.10 生病记录</title>
+    <link href="http://example.com/2021/04/11/4-10-%E7%94%9F%E7%97%85%E8%AE%B0%E5%BD%95/"/>
+    <id>http://example.com/2021/04/11/4-10-%E7%94%9F%E7%97%85%E8%AE%B0%E5%BD%95/</id>
+    <published>2021-04-11T13:42:35.000Z</published>
+    <updated>2021-04-11T13:46:30.951Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><p>4-09 晚上临睡前</p><p>感觉好几天喉咙不舒服，是感冒的预兆，尽量休息好。</p></li><li><p>4-10</p><p>起床感觉喉咙有那么一米米不舒服，但是还行，随着一天时间的进展，喉咙越来越不舒服，12点就上床睡觉了。</p></li><li><p>4-11</p><p>21:46</p><p>早上醒来发现喉咙稍微好了一点点，然后鼻塞，上午和晚上鼻塞一个感觉，不是特别塞，然后到了晚上开始头疼，希望明天就能好吧。</p></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;4-09 晚上临睡前&lt;/p&gt;
+&lt;p&gt;感觉好几天喉咙不舒服，是感冒的预兆，尽量休息好。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;4-10&lt;/p&gt;
+&lt;p&gt;起床感觉喉咙有那么一米米不舒服，但是还行，随着一天时间的进展，喉咙越来越不舒服，12点就上床睡觉了。&lt;/p&gt;
+&lt;</summary>
+      
+    
+    
+    
+    <category term="日记" scheme="http://example.com/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>有区域赛银啦！太激动了</title>
