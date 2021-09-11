@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-11T15:18:52.473Z</updated>
+  <updated>2021-09-11T15:21:03.230Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,16 +21,18 @@
     <link href="http://example.com/2021/09/11/9%E6%9C%88%E8%AE%B0%E5%BD%95/"/>
     <id>http://example.com/2021/09/11/9%E6%9C%88%E8%AE%B0%E5%BD%95/</id>
     <published>2021-09-11T15:15:03.000Z</published>
-    <updated>2021-09-11T15:18:52.473Z</updated>
+    <updated>2021-09-11T15:21:03.230Z</updated>
     
-    <content type="html"><![CDATA[<p>9-11</p><p>辅导讲义-一元函数微分学(预计明天解决这章)</p><p>严选题-一元函数微分学（预计后天解决这章）</p><p>概率论辅导讲义-数理统计课后题</p><p>计算机网络-第二章剩个尾巴</p>]]></content>
+    <content type="html"><![CDATA[<ul><li>9-11</li></ul><p>辅导讲义-一元函数微分学(预计明天解决这章)</p><p>严选题-一元函数积分学（预计后天解决这章）</p><p>概率论辅导讲义-数理统计课后题</p><p>计算机网络-第二章剩个尾巴</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;9-11&lt;/p&gt;
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;9-11&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;辅导讲义-一元函数微分学(预计明天解决这章)&lt;/p&gt;
-&lt;p&gt;严选题-一元函数微分学（预计后天解决这章）&lt;/p&gt;
+&lt;p&gt;严选题-一元函数积分学（预计后天解决这章）&lt;/p&gt;
 &lt;p&gt;概率论辅导讲义-数理统计课后题&lt;/p&gt;
 &lt;p&gt;计算机网络-第二章剩个尾巴&lt;/p&gt;
 </summary>
