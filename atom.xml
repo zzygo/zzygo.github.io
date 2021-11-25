@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-11-23T09:55:02.178Z</updated>
+  <updated>2021-11-25T13:12:58.422Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>考前一个月随笔</title>
+    <link href="http://example.com/2021/11/25/%E8%80%83%E5%89%8D%E4%B8%80%E4%B8%AA%E6%9C%88%E9%9A%8F%E7%AC%94/"/>
+    <id>http://example.com/2021/11/25/%E8%80%83%E5%89%8D%E4%B8%80%E4%B8%AA%E6%9C%88%E9%9A%8F%E7%AC%94/</id>
+    <published>2021-11-25T13:08:27.000Z</published>
+    <updated>2021-11-25T13:12:58.422Z</updated>
+    
+    <content type="html"><![CDATA[<p>UPD 11-25</p><p>自从昨天晚上看到去浙江考试要48小时核酸，感觉今天效率直接下滑到昨天的50%。</p><p>还是经历的太少，心理太弱。</p><p>经验总结：自己&amp;父母利益放在第一位，whatever happens happens，may the best man win.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;UPD 11-25&lt;/p&gt;
+&lt;p&gt;自从昨天晚上看到去浙江考试要48小时核酸，感觉今天效率直接下滑到昨天的50%。&lt;/p&gt;
+&lt;p&gt;还是经历的太少，心理太弱。&lt;/p&gt;
+&lt;p&gt;经验总结：自己&amp;amp;父母利益放在第一位，whatever happens happens，may t</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>写数学要注意的点</title>
