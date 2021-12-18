@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-12-11T14:27:13.124Z</updated>
+  <updated>2021-12-18T16:02:12.768Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2021/12/10/%E6%95%B0%E5%AD%A610%E5%A4%A9%E9%9B%86%E8%AE%AD/"/>
     <id>http://example.com/2021/12/10/%E6%95%B0%E5%AD%A610%E5%A4%A9%E9%9B%86%E8%AE%AD/</id>
     <published>2021-12-10T14:00:20.000Z</published>
-    <updated>2021-12-11T14:27:13.124Z</updated>
+    <updated>2021-12-18T16:02:12.768Z</updated>
     
-    <content type="html"><![CDATA[<ul><li><p>12-10</p><p>选择：</p><ol><li><p>经典模型： A[线性无关的方程组] = [线性无关的方程组] [根据条件构造矩阵]</p></li><li><p>中心极限定律，大量随机变量的和近似服从正态分布</p></li></ol><p>填空：</p><ol><li>计算错：上面没有<strong>平方</strong>，抄下来个平方</li><li>计算错：左边求了导，右边忘<strong>求导</strong></li></ol><p>大题：</p><ol><li>二次型配方法：先配x1,指的是先配x1^2, x1(x2 + x3)</li></ol></li><li><p>12-10</p><p>高数：</p><ol><li>对于较复杂的微分链导计算题，可以先画树形图理清关系</li></ol><p>线代：</p><ol><li>二次线正定的定理：对于任意的不为零的x向量，都有f(x1,x2,x3) &gt; 0</li></ol><p>概率：</p><ol><li>条件给出 Y = X，用处是根据分布函数的定义p{X &lt;= a, Y &lt;= b}，变为p{X &lt;= a, X &lt;= b} = p{X &lt;= min(a,b)}</li></ol></li><li></li></ul>]]></content>
+    <content type="html"><![CDATA[<ul><li><p>12-10</p><p>选择：</p><ol><li><p>经典模型： A[线性无关的方程组] = [线性无关的方程组] [根据条件构造矩阵]</p></li><li><p>中心极限定律，大量随机变量的和近似服从正态分布</p></li></ol><p>填空：</p><ol><li>计算错：上面没有<strong>平方</strong>，抄下来个平方</li><li>计算错：左边求了导，右边忘<strong>求导</strong></li></ol><p>大题：</p><ol><li>二次型配方法：先配x1,指的是先配x1^2, x1(x2 + x3)</li></ol></li><li><p>12-11</p><p>高数：</p><ol><li>对于较复杂的微分链导计算题，可以先画树形图理清关系</li></ol><p>线代：</p><ol><li>二次线正定的定理：对于任意的不为零的x向量，都有f(x1,x2,x3) &gt; 0</li></ol><p>概率：</p><ol><li>条件给出 Y = X，用处是根据分布函数的定义p{X &lt;= a, Y &lt;= b}，变为p{X &lt;= a, X &lt;= b} = p{X &lt;= min(a,b)}</li></ol></li><li><p>12-12</p><p>高数：</p><ol><li>((x^2)^3) = x^(2*3) = x^6</li><li>二线：x y    二面:yz zx xy</li></ol><p>线代：</p><ol><li>只有实对称矩阵，才有不同的特征值对应的特征向量相互正交</li><li>正交矩阵的性质：<ol><li><strong>任意两行或两列相互垂直</strong></li><li>每行或每列都是单位向量</li><li>行列式为1</li></ol></li></ol><p>概率论：</p><ol><li>分布函数的性质：<ol><li>F(-无穷) = 0， F(+无穷) = 1</li><li>F 单调不减</li></ol></li></ol></li><li><p>12-18</p><ol><li>Cov(X, Y) = EXY - EX*EY</li><li>做条件极(最)值大题时，最后带入x，y，注意别带错</li><li>二线/二面注意正负问题：二线注意区域是在左边还是右边，二面注意法向量和坐标轴夹角是锐角还是钝角</li></ol></li></ul>]]></content>
     
     
       
@@ -98,18 +98,16 @@
     <link href="http://example.com/2021/12/05/408%E8%80%83%E5%89%8D%E6%8F%90%E9%86%92/"/>
     <id>http://example.com/2021/12/05/408%E8%80%83%E5%89%8D%E6%8F%90%E9%86%92/</id>
     <published>2021-12-05T12:32:31.000Z</published>
-    <updated>2021-12-05T12:36:07.260Z</updated>
+    <updated>2021-12-18T16:09:13.922Z</updated>
     
-    <content type="html"><![CDATA[<p>LETS GO CHAMP!</p><ol><li>仔细审题，看清大题要不要求<strong>写理由</strong></li></ol>]]></content>
+    <content type="html"><![CDATA[<ol><li>仔细<strong>审题</strong>，比如看清大题要不要求<strong>写理由</strong></li><li>选择题45分钟要做完20道选择，一个半小时底线任务一定要做完全部选择，然后5分钟迅速涂答题卡；除了代码题可以15min，其他大题一律10min以内。</li></ol>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;LETS GO CHAMP!&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;仔细审题，看清大题要不要求&lt;strong&gt;写理由&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</summary>
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;仔细&lt;strong&gt;审题&lt;/strong&gt;，比如看清大题要不要求&lt;strong&gt;写理由&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;选择题45分钟要做完20道选择，一个半小时底线任务一定要做完全部选择，然后5分钟迅速涂答题卡；除了代码题可以15min，其他大题一律10m</summary>
       
     
     
@@ -166,9 +164,9 @@
     <link href="http://example.com/2021/11/19/%E6%95%B0%E5%AD%A6%E8%80%83%E5%89%8D%E6%8F%90%E9%86%92/"/>
     <id>http://example.com/2021/11/19/%E6%95%B0%E5%AD%A6%E8%80%83%E5%89%8D%E6%8F%90%E9%86%92/</id>
     <published>2021-11-19T13:59:59.000Z</published>
-    <updated>2021-12-05T12:35:39.693Z</updated>
+    <updated>2021-12-18T16:07:36.503Z</updated>
     
-    <content type="html"><![CDATA[<p>LETS GO CHAMP！</p><p>不变的真理：</p><ol><li><strong>计算时不要跳步！</strong></li></ol><p><strong>高数：</strong></p><p>做完计算题，尤其是线面积分，要检查以下几个方面：</p><ol><li>有没有漏了 式子前面的<strong>系数</strong>， <strong>被积函数</strong></li></ol><p><strong>线代：</strong></p><ol><li>求出特征向量后可以用 Aα = λα 验算</li></ol>]]></content>
+    <content type="html"><![CDATA[<p>LETS GO CHAMP！</p><p>不变的真理：</p><ol><li><strong>计算时不要跳步！</strong></li><li>抄抄 准！</li><li>抄抄 全！</li></ol><p>选择题：</p><ol><li>特殊值</li><li>把ABCD选项一个一个带入，看哪个满足题目条件</li></ol><p><strong>高数：</strong></p><p>做完计算题，尤其是线面积分，要检查以下几个方面：</p><ol><li>有没有漏了 式子前面的<strong>系数</strong>， <strong>被积函数</strong></li><li>算积分时，注意两点别抄错 or 算错，①被积函数  ②上下限</li></ol><p><strong>线代：</strong></p><ol><li>求出特征向量后可以用 Aα = λα 验算</li></ol>]]></content>
     
     
       
@@ -177,9 +175,12 @@
 &lt;p&gt;不变的真理：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;计算时不要跳步！&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;抄抄 准！&lt;/li&gt;
+&lt;li&gt;抄抄 全！&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;高数：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;做完计算题，尤其是线面积分，要检查以下几个方面：&lt;/p</summary>
+&lt;p&gt;选择题：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;特殊值&lt;/li</summary>
       
     
     
